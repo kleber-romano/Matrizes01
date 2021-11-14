@@ -1,0 +1,15 @@
+D:\git\Matrizes01\bin\Debug\net6.0\Matrizes01.exe
+D:\git\Matrizes01\bin\Debug\net6.0\Matrizes01.deps.json
+D:\git\Matrizes01\bin\Debug\net6.0\Matrizes01.runtimeconfig.json
+D:\git\Matrizes01\bin\Debug\net6.0\Matrizes01.dll
+D:\git\Matrizes01\bin\Debug\net6.0\ref\Matrizes01.dll
+D:\git\Matrizes01\bin\Debug\net6.0\Matrizes01.pdb
+D:\git\Matrizes01\obj\Debug\net6.0\Matrizes01.csproj.AssemblyReference.cache
+D:\git\Matrizes01\obj\Debug\net6.0\Matrizes01.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\Matrizes01\obj\Debug\net6.0\Matrizes01.AssemblyInfoInputs.cache
+D:\git\Matrizes01\obj\Debug\net6.0\Matrizes01.AssemblyInfo.cs
+D:\git\Matrizes01\obj\Debug\net6.0\Matrizes01.csproj.CoreCompileInputs.cache
+D:\git\Matrizes01\obj\Debug\net6.0\Matrizes01.dll
+D:\git\Matrizes01\obj\Debug\net6.0\ref\Matrizes01.dll
+D:\git\Matrizes01\obj\Debug\net6.0\Matrizes01.pdb
+D:\git\Matrizes01\obj\Debug\net6.0\Matrizes01.genruntimeconfig.cache
